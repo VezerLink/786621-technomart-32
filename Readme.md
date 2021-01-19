@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [vezer](https://up.htmlacademy.ru/htmlcss/30/user/786621).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Удод](https://htmlacademy.ru/profile/id523387).
 
 ---
 
